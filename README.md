@@ -1,5 +1,13 @@
 # meridian
 
+> Meridian — AI Agent Orchestrator
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-AI](https://github.com/BlackRoad-AI)
+
+---
+
+# meridian
+
 Meridian — AI Agent Orchestrator
 
 **BlackRoad-AI** — AI — models, inference, agents
